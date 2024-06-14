@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratap-222&label=Profile%20views&color=0e75b6&style=flat" alt="pratap-222" /> </p>
 
-- 🌱 I’m currently learning **NestJS, Tailwind CSS**
+- 🌱 I’m currently learning **NestJS and Tailwind CSS**
 
 - 💬 Ask me about **React, Javascript, Node.js**
 
