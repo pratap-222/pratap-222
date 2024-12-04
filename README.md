@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pratapsinhwaghmare@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10R6vf8J3oaaIHD3NX5qexITnXyxM4J-X/view?usp=drive_link](https://drive.google.com/file/d/10R6vf8J3oaaIHD3NX5qexITnXyxM4J-X/view?usp=drive_link)
+- 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/10R6vf8J3oaaIHD3NX5qexITnXyxM4J-X/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
